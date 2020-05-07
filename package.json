@@ -2,7 +2,7 @@
   "name": "bus-time-table-gtfs",
   "version": "0.1.0",
   "engines": {
-    "node": "12.x"
+    "node": "14.x"
   },
   "main": "index.js",
   "repository": "git@github.com:noriaki/bus-time-table-gtfs.git",
