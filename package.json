@@ -1,0 +1,15 @@
+{
+  "name": "bus-time-table-gtfs",
+  "version": "0.1.0",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:noriaki/bus-time-table-gtfs.git",
+  "author": {
+    "name": "Noriaki Uchiyama",
+    "email": "uchiyama.noriaki@gmail.com",
+    "url": "https://github.com/noriaki"
+  },
+  "license": "MIT"
+}
